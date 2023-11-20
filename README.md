@@ -1,19 +1,15 @@
-### Hi there 👋
-I'm a Software Developer specialised in PHP. I have always been interested in programming and when a close friend of mine, who works in this field, showed some projects she did, I got inspired to also learn programming. I'm always working on my current skills with the goal of being more confident each day in what I do and my experience with Codelex is helping me with this goal.
+# Hi there, I'm Liga Rimsa! 👋
+I'm a Software Developer specializing in PHP, driven by a longstanding passion for programming. My journey into this field was inspired by a close friend's impactful projects, igniting my determination to learn and grow continuously.
 
-Link to my LinkedIn profile --> https://www.linkedin.com/in/ligarimsa/
+🌱 I'm always honing my skills with the goal of enhancing my confidence and expertise in the realm of software development.
 
-<!--
-**liga4/liga4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ligarimsa/)!
 
-Here are some ideas to get you started:
+## Top Projects
+Here are some of my noteworthy projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[RickAndMorty](https://github.com/liga4/RickAndMorty) - A webpage where I used MVC, API and more to create working webpage. It displays Episodes by Seasons, Episode list etc.
+[webPage](https://github.com/liga4/newsWeb) - In this project i also practised working with MVC, API data and created webpage that displays News from all across ther world that you can filter by different parameters.
+[cryptoWeb](https://github.com/liga4/cryptoWeb) - Also one of my projects where I created webpage practising MVC, API, also including tailwindcss.com for styling and this webPage lets research information about crypto currencies.
+
+Feel free to explore these projects for a glimpse into my work!
