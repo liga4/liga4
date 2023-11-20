@@ -12,6 +12,6 @@ Here are some of my noteworthy projects:
 
 [webPage](https://github.com/liga4/newsWeb) - In this project i also practised working with MVC, API data and created webpage that displays News from all across ther world that you can filter by different parameters.
 
-[cryptoWeb](https://github.com/liga4/cryptoWeb) - Also one of my projects where I created webpage practising MVC, API, also including tailwindcss.com for styling and this webPage lets research information about crypto currencies.
+[cryptoWeb](https://github.com/liga4/cryptoWeb) - Also one of my projects where I created webpage practising MVC, API, also including tailwindcss.com for styling and this webPage allows to search information about crypto currencies.
 
 Feel free to explore these projects for a glimpse into my work!
