@@ -1,8 +1,7 @@
 ### Hi there 👋
 I'm a Software Developer specialised in PHP. I have always been interested in programming and when a close friend of mine, who works in this field, showed some projects she did, I got inspired to also learn programming. I'm always working on my current skills with the goal of being more confident each day in what I do and my experience with Codelex is helping me with this goal.
 
-Link to my LinkedIn profile:
----> https://www.linkedin.com/in/ligarimsa/
+Link to my LinkedIn profile --> https://www.linkedin.com/in/ligarimsa/
 
 <!--
 **liga4/liga4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
