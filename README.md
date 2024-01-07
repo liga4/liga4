@@ -8,10 +8,10 @@ I'm a Software Developer specializing in PHP, driven by a longstanding passion f
 ## Top Projects
 Here are some of my noteworthy projects:
 
-[RickAndMorty](https://github.com/liga4/RickAndMorty) - A webpage where I used MVC, API and more to create working webpage. It displays Episodes by Seasons, Episode list etc.
+[Banking Application](https://github.com/liga4/Banking_app) - One of my latest projects! Application that provides a range of financial functionalities to manage your accounts, perform transactions, and handle investments. It's built to offer a seamless experience for handling various currencies, making transactions, and exploring cryptocurrency investments. For this project i used Laravel, MVC, API, OOP, MySQL.
 
-[webPage](https://github.com/liga4/newsWeb) - In this project i also practised working with MVC, API data and created webpage that displays News from all across ther world that you can filter by different parameters.
+[Rick And Morty WebPage](https://github.com/liga4/RickAndMorty) - A webpage where I used MVC, API and more to create working webpage. It displays Episodes by Seasons, Episode list etc.
 
-[cryptoWeb](https://github.com/liga4/cryptoWeb) - Also one of my projects where I created webpage practising MVC, API, also including tailwindcss.com for styling and this webPage allows to search information about crypto currencies.
+[Article WebPage](https://github.com/liga4/Articles_crud) - Also one of my projects where I created webpage practising CRUD, MVC,  also including tailwindcss.com for styling. In this project i focused on creating all of the most essential functions for any application.
 
 Feel free to explore these projects for a glimpse into my work!
