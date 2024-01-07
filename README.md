@@ -12,6 +12,6 @@ Here are some of my noteworthy projects:
 
 [Rick And Morty WebPage](https://github.com/liga4/RickAndMorty) - A webpage where I used MVC, API and more to create working webpage. It displays Episodes by Seasons, Episode list etc.
 
-[Article WebPage](https://github.com/liga4/Articles_crud) - Also one of my projects where I created webpage practising CRUD, MVC,  also including tailwindcss.com for styling. In this project i focused on creating all of the most essential functions for any application.
+[Article WebPage](https://github.com/liga4/Articles_crud) - Also one of my projects where I created a webpage practising CRUD, MVC,  also including tailwindcss.com for styling. In this project i focused on creating all of the most essential functions for any application.
 
 Feel free to explore these projects for a glimpse into my work!
